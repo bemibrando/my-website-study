@@ -14,19 +14,18 @@ This is a solution to [Spread Fullstack Developer] from [Digital Innovation One]
 ## overview
 
 ### The Challenge
-- Build out the project to the instagram page provided
+- the challenge was to build a project using a instagram page that was availiable to me
 
 ### Screenshot
 <p align="center">
-    <img src="./screen/desktop.png" alt="Instagram page solution desktop view" width="450px">
-</p>
-<p align="center">
-    <img src="./screen/tablet.png" alt="Instagram page solution tablet view" width="350px">
-    <img src="./screen/cellphone.png" alt="Instagram page solution cellphone view" width="200px">
+    <img src="./screen/desktop.png" alt="Instagram page solution desktop view" width="457px">
+    <img src="./screen/tablet.png" alt="Instagram page solution tablet view" width="320px">
+    <img src="./screen/cellphone.png" alt="Instagram page solution cellphone view" width="150px">
 </p>
 
 ### Links
-- Solution URL: []()
+- Solution URL: [GitHubRepository]()
+- Live Site URL: [GitHub Pages](https://bemibrando.github.io/my-website-study/html-css-sites/re-insta-home/instahome.html)
 
 ## My Process
 
@@ -36,7 +35,7 @@ This is a solution to [Spread Fullstack Developer] from [Digital Innovation One]
 - Flexbox
 
 ### What I learned
-With this project, I understand better how "display: flex" works 
+With this project, I understand better how "display: flex" works
 
 ## Author
 <div sytle="display: inline-block;">
@@ -46,7 +45,7 @@ With this project, I understand better how "display: flex" works
             <sub style="text-align: center; font-size: 1.4em;"><b>Bianca Emi</b></sub>
         </a>
     </figure>
-    <p>Made with ♥ by Bianca Emi 👋 Get in touch!</p>
+    <p>Made with ♥ by <a href="https://github.com/bemibrando" target="_blank">Bianca Emi</a> 👋 Get in touch!</p>
     <div align="start">
         <a href="https://www.linkedin.com/in/bianca-emi/" target="_blank">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">

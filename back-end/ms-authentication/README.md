@@ -1,43 +1,43 @@
 # Spread Fullstack Developer - Authentication Microservice solution
+![](https://img.shields.io/github/last-commit/bemibrando/my-website-study/release/1.0.0)
+
 This is a solution to Spread Fullstack Developer from [Digital Innovation One](https://www.dio.me/en). Dio.me is the platform for you to learn from experts, master the main technologies and enter the most desired companies faster.
 
-<br /><br />
+<br />
 
 ## Table of Contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Project Composition](#project-composition)
-  - [Links](#links)
+  - [The challenge](#bthe-challengeb)
+  - [Project Composition](#bproject-compositionb)
+  - [Links](#blinksb)
 - [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
+  - [Built with](#bbuilt-withb)
+  - [What I learned](#bwhat-i-learnedb)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 ---
-### The Challenge
+### <b>The Challenge</b>
 - Create a Authentication Microservice that will be able to compose your toolbox and be very useful in your day to day
 
-<br /><br />
+<br />
 
-### Project Composition
-<b>Users</b>
-- Get /users
-- Get /users/:uuid
-- Post /users
-- Put /users/:uuid
-- Delete /users/:uuid
+### <b>Project Composition</b>
+- Users
+    - Get /users
+    - Get /users/:uuid
+    - Post /users
+    - Put /users/:uuid
+    - Delete /users/:uuid
 
-<b>Authentication</b>
-- Post /token
-- Post /token/validate
+- Authentication
+    - Post /token
+    - Post /token/validate
 
-<br /><br />
+<br />
 
-### Links
+### <b>Links</b>
 - Solution URL: [](https://your-solution-url.com)
 - Live Site URL: [](https://your-live-site-url.com)
 
@@ -45,17 +45,17 @@ This is a solution to Spread Fullstack Developer from [Digital Innovation One](h
 
 ## My process
 ---
-### Built with
+### <b>Built with</b>
 - [Node.Js](https://nodejs.org/en/) - a JavaScript runtime build on Chrome's V8 JavaScript engine.
 - [TypeScript](https://www.typescriptlang.org/) - JavaScript with syntax for types. TypeScript is a programming language.
 - [Postman](https://www.postman.com/) -  an API platform for building and using APIs.
 - [Postgres](https://www.npmjs.com/package/pg) - Non-blocking PostgreSQL client for Node.js.
 - [npm](https://www.npmjs.com/) - JaveScript Package Manager.
-- [ElephantSQL](https://www.elephantsql.com/)
+- [ElephantSQL](https://www.elephantsql.com/) - A free, open-source, cloud-based relational database.
 
-<br /><br />
+<br />
 
-### What I learned
+### <b>What I learned</b>
 - how to implement the authentication microservice.
 - how to implement the CRUD operations.
 - how to use the Postgres database.
@@ -67,7 +67,7 @@ This is a solution to Spread Fullstack Developer from [Digital Innovation One](h
 - how to implement error handling.
 - how to automate the server to identify the code changes.
 
-<br /><br />
+<br />
 
 To show the result of my programming, I need to type on terminal:
 ```
@@ -79,8 +79,10 @@ Or simply
 npm run dev
 ```
 
-<br /><br />
+<br />
+
 ## Author
+---
 <div sytle="display: inline-block;">
     <figure>
         <a href="https://github.com/bemibrando" target="_blank">
