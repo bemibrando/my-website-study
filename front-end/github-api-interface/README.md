@@ -1,53 +1,65 @@
-# Spread Fullstack Developer - Flex Turismo
+# Spread Fullstack Developer - componentizing with ReactJS
+<img src="https://img.shields.io/github/last-commit/bemibrando/my-website-study/feature/git-api-interface?style=for-the-badge" height="24px"/> &nbsp; <img src="https://img.shields.io/badge/status-on%20hold-orange?style=for-the-badge" height="24px"/>
+
 This is a solution to [Spread Fullstack Developer] from [Digital Innovation One](https://www.dio.me/en). Dio.me is the platform for you to learn from experts, master the main technologies and enter the most desired companies faster.
 
 ## Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Features](#features)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
 - [Author](#author)
 
-<br />
-
 ## Overview
----
 
-### <b>The challenge</b>
-- The project goals was develop a landing page using the knowledge about HTML markups and Flexbox earned with the section "HTML/CSS3" from the course.
+### The challenge
+- Create a ReactJS solution that explores the concepts presented in the course.
+- Care about Responsivity and reusable components.
 
-### <b>Screenshot</b>
+### Features
+- Search infos by username
+- Search repo by username
+- Search starred by username
 
-<p align="center">
-    <img src="./screen/desktop.gif" alt="Landing page solution desktop view" width="457px">
-    <img src="./screen/cellphone.gif" alt="Landing page solution cellphone view" width="457px">
-</p>
+### Screenshot
 
-### <b>Links</b>
-- Solution URL: [GitHub Repository](https://github.com/bemibrando/my-website-study/tree/release/1.0.0/front-end/flex-turismo)
-- Live Site URL: [GitHub Pages](https://bemibrando.github.io/my-website-study/front-end/flex-turismo/)
 
-<br />
+### Links
+
+- Solution URL: [](https://your-solution-url.com)
+- Live Site URL: [](https://your-live-site-url.com)
 
 ## My process
----
 
-### <b>Built with</b>
+### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- CSS Grid
+- [React](https://reactjs.org/) - JS library
+- [Next.js](https://nextjs.org/) - React framework
+- [Styled Components](https://styled-components.com/) - For styles
 
-### <b>What I learned</b>
-I learn how to create cards and organize site components with "container-outside"
+### What I learned
+
+
+### Continued development
+
+Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+
+**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+
+### Useful resources
+
+- [Matheus Benites YouTube playlist](https://www.youtube.com/watch?v=F1HqLD6TgCw&list=PLTv2Rbwcr_Cru7KIHcffE1Shg9X9Eix7a&index=1&ab_channel=OMatheusBenites)
 
 ## Author
----
 <div sytle="display: inline-block;">
     <figure>
         <a href="https://github.com/bemibrando" target="_blank">
