@@ -4,9 +4,9 @@ This repository is to include all of my study repositories at one place
 ## Table of Contents
 - [Overview](#overview)
     - [freeCodeCamp](#bfreecodecampb)
-    - [front-end](#bfront-endb)
-    - [back-end](#bback-endb)
-    - [full-stack](#bfull-stackb)
+    - [Front-end](#bfront-endb)
+    - [Back-end](#bback-endb)
+    - [Full-stack](#bfull-stackb)
 - [Useful Resources](#useful-resources)
 - [Author](#author)
 
@@ -18,10 +18,11 @@ This repository is to include all of my study repositories at one place
 - [Front-end](#bfront-endb)
     - [Flex Turismo](#bflex-turismob)
     - [Re instagram Home](#bre-instagram-homeb)
+    - [GitHub API Interface](#github-api-interface)
 - [Back-end](#bback-endb)
     - [Microservice Authentication Solution](#bmicroservice-authentication-solutionb)
 - [Full-stack](#bfull-stackb)
-    - [url-shortener](#burl-shortenerb)
+    - [URL shortener](#burl-shortenerb)
 ---
 <br>
 
@@ -55,6 +56,12 @@ The project goals was develop a landing page using the knowledge about HTML mark
 Solution developed to <b>Spread Fullstack Developer</b> from [Digital Innovation One](https://www.dio.me/en).<br>
 The challenge was build out the project as the Instagram page provided and using Semantic HTML markups and Flexbox.
 
+<br />
+
+#### <b>GitHub API Interface</b> &nbsp; &nbsp; &nbsp;<img src="https://img.shields.io/github/last-commit/bemibrando/my-website-study/feature/git-api-interface?style=for-the-badge" height="24px"/> &nbsp; <img src="https://img.shields.io/badge/status-on%20hold-orange?style=for-the-badge" height="24px"/>
+Solution developed to <b>Spread Fullstack Developer</b> from [Digital Innovation One](https://www.dio.me/en).<br>
+The challenge was create a frontend application with reusable components and a responsive design.
+
 <br /><br />
 
 ### <b>Back-end</b>
@@ -72,11 +79,11 @@ Create a Authentication Microservice that will be able to compose your toolbox a
 
 ### <b>Full-stack</b>
 ---
-- [url-shortener](#burl-shortenerb)
+- [URL Shortener](#burl-shortenerb)
 
 <br />
 
-#### <b>url-shortener</b> &nbsp; &nbsp; &nbsp; ![](https://img.shields.io/github/last-commit/bemibrando/my-website-study/release/1.0.0)
+#### <b>URL Shortener</b> &nbsp; &nbsp; &nbsp; ![](https://img.shields.io/github/last-commit/bemibrando/my-website-study/release/1.0.0)
 Solution developed to <b>Spread Fullstack Developer</b> from [Digital Innovation One](https://www.dio.me/en).<br>
 Develop a URL shortener using an existing API to build and using technologies like NodeJs, TypeScript, MongoDB to contruct the database.
 

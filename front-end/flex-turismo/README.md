@@ -12,34 +12,42 @@ This is a solution to [Spread Fullstack Developer] from [Digital Innovation One]
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-## Overview
+<br />
 
-### The challenge
+## Overview
+---
+
+### <b>The challenge</b>
 - The project goals was develop a landing page using the knowledge about HTML markups and Flexbox earned with the section "HTML/CSS3" from the course.
 
-### Screenshot
+### <b>Screenshot</b>
 
 <p align="center">
-  <img src="./" alt="">
+    <img src="./screen/desktop.gif" alt="Landing page solution desktop view" width="457px">
+    <img src="./screen/cellphone.gif" alt="Landing page solution cellphone view" width="457px">
 </p>
 
-### Links
-- Solution URL: [](https://your-solution-url.com)
-- Live Site URL: [GitHub Pages](https://bemibrando.github.io/my-website-study/html-css-sites/flex-turismo/)
+### <b>Links</b>
+- Solution URL: [GitHub Repository](https://github.com/bemibrando/my-website-study/tree/release/1.0.0/front-end/flex-turismo)
+- Live Site URL: [GitHub Pages](https://bemibrando.github.io/my-website-study/front-end/flex-turismo/)
+
+<br />
 
 ## My process
+---
 
-### Built with
+### <b>Built with</b>
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - CSS Grid
 
-### What I learned
+### <b>What I learned</b>
 I learn how to create cards and organize site components with "container-outside"
 
 ## Author
+---
 <div sytle="display: inline-block;">
     <figure>
         <a href="https://github.com/bemibrando" target="_blank">

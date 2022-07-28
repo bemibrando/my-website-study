@@ -11,7 +11,8 @@ This is a solution to [Spread Fullstack Developer] from [Digital Innovation One]
     - [What I Learned](#what-i-learned)
 - [Author](#author)
 
-## overview
+## Overview
+---
 
 ### The Challenge
 - the challenge was to build a project using a instagram page that was availiable to me
@@ -25,9 +26,12 @@ This is a solution to [Spread Fullstack Developer] from [Digital Innovation One]
 
 ### Links
 - Solution URL: [GitHubRepository]()
-- Live Site URL: [GitHub Pages](https://bemibrando.github.io/my-website-study/html-css-sites/re-insta-home/instahome.html)
+- Live Site URL: [GitHub Pages](https://bemibrando.github.io/my-website-study/front-end/re-insta-home/instahome.html)
+
+<br />
 
 ## My Process
+---
 
 ### Build with
 - Semantic HTML5 markup
@@ -37,7 +41,10 @@ This is a solution to [Spread Fullstack Developer] from [Digital Innovation One]
 ### What I learned
 With this project, I understand better how "display: flex" works
 
+<br />
+
 ## Author
+---
 <div sytle="display: inline-block;">
     <figure>
         <a href="https://github.com/bemibrando" target="_blank">
